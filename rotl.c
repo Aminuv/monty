@@ -2,7 +2,7 @@
 
 
 /**
- * rotl - push the data in the stack or queue
+ * _rotl - push the data in the stack or queue
  * @stack: pointer to the stack
  * @line_number: instruction
  */

@@ -3,7 +3,6 @@
 /**
  * instruct - selects a correct func to perform the operation.
  * @s: operator for pass of the program
- * 
  * Return: appropraite function or NULL if it does not exist.
  */
 void (*instruct(char **s))(stack_t **, unsigned int)

@@ -2,7 +2,6 @@
 /**
  * _str_dup - returns a pointer to a newly allocated space in memory.
  * @str: input string
- * 
  * Return: array of pointer
  */
 char *_str_dup(char *str)

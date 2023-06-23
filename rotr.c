@@ -1,7 +1,7 @@
 #include "monty.h"
 
 /**
- * rotr - push the data in the stack or queue
+ * _rotr - push the data in the stack or queue
  * @stack: pointer to the stack
  * @line_number: instruction
  */

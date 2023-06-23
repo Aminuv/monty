@@ -1,15 +1,15 @@
 #include "monty.h"
 
-global_t var = {0, 0, NULL, NULL, 0};
+
 /**
  * main - entry a point
  * @ac: number of args
  * @av: array of args
- *
  * Return: 0
  */
 int main(int ac, char **av)
 {
+	global_t var = {0, 0, NULL, NULL, 0};
 	FILE *fd;
 
 	if (ac != 2)

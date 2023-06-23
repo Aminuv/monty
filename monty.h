@@ -58,7 +58,6 @@ typedef struct global_s
 	stack_t *stack;
 	int stack_queue;
 } global_t;
-
 extern global_t var;
 
 /**********main.c**********/

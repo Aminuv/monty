@@ -109,7 +109,7 @@ void prs_input(FILE *fd)
 }
 
 /**
- * pars_args( - input into an array of strings
+ * pars_args - input into an array of strings
  * @cmd: input str
  * @delim: the refrence
  *
